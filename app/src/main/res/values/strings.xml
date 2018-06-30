@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Estimate List</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="hint_amount_of_operation">Operations</string>
+    <string name="hint_amount_of_threads">Threads</string>
+    <string name="defoult_amount_of_threads">4</string>
+    <string name="defoult_amount_of_operation">10000</string>
+    <string name="content_descr_estimate_error">estimate error</string>
+</resources>
